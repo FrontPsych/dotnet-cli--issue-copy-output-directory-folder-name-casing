@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{334B9A5A-552A-4954-8108-1D53295E1258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency_A", "Dependency_A\Dependency_A.csproj", "{DAD4EC60-2C28-4470-9AC3-F8B846974B2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency_B", "Dependency_B\Dependency_B.csproj", "{E451E92C-BA10-44EB-B7BF-5D0FF5305AF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{334B9A5A-552A-4954-8108-1D53295E1258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334B9A5A-552A-4954-8108-1D53295E1258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334B9A5A-552A-4954-8108-1D53295E1258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334B9A5A-552A-4954-8108-1D53295E1258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD4EC60-2C28-4470-9AC3-F8B846974B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD4EC60-2C28-4470-9AC3-F8B846974B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD4EC60-2C28-4470-9AC3-F8B846974B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD4EC60-2C28-4470-9AC3-F8B846974B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E451E92C-BA10-44EB-B7BF-5D0FF5305AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E451E92C-BA10-44EB-B7BF-5D0FF5305AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E451E92C-BA10-44EB-B7BF-5D0FF5305AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E451E92C-BA10-44EB-B7BF-5D0FF5305AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A2F4B13-71BC-4010-879A-0783E1BCEF81}
+	EndGlobalSection
+EndGlobal
